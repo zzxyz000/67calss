@@ -1,1 +1,1 @@
-# 67calss
+# 67class
